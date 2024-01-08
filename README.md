@@ -23,10 +23,11 @@ Git is a distributed version control system that allows you to track changes in 
 
 To get started with Git, you can check out the [Git documentation](https://git-scm.com/book/en/v2) and [GitHub documentation](https://docs.github.com/en/github/working-with-git) for more information.
 
-- [ ] Installed Git on my machine.
-- [ ] Configured global settings (username, email) using `git config`.
-- [ ] Created my first repository with `git init`.
-- [ ] Cloned a repository from GitHub using `git clone`.
+- [x] Installed Git on my machine.
+- [x] Configured global settings (username, email) using `git config`.
+- [x] Created my first repository with `git init`.
+- [x] Cloned a repository from GitHub using `git clone`.
+- [x] [Getting Started with Git](getting_started.md)
 
 ## Basic Commands
 
